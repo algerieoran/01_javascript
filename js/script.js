@@ -41,6 +41,13 @@ var a = "la formation";
     a =["la formation", "développeur web",10];
     console.log("je fait partie de "+a[0]+" "+a[1]+" qui va durée "+a[2]+" mois");
 
+    var = 12;
+    var = 5;
+    console.log(a+b);
+    console.log(a*b);
+    console.log(a/b);
+    console.log(a%b);
+
 
 
 
