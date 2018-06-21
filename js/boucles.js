@@ -15,6 +15,8 @@
 // La boucle DO WHILE, est une boucle qui exécutera d’abord une première fois le code SANS tester la
 // condition ; PUIS ensuite, n’exécutera le code que si la condition est remplie pour toutes les fois
 // suivantes.
+//************************************************************************************************************************** */
+
 
 for(var monChiffre = 1; monChiffre < 100; monChiffre++){
     document.write(monChiffre + "<br>");
@@ -44,7 +46,7 @@ for(var monChiffre = 1; monChiffre < 100; monChiffre++){
 //var monChiffre = 1;
 //monChiffre++ => monChiffre + 1;
 //monChiffre-- => monChiffre - 1;
-
+//****************************************************************************************************************** */
 // var mytable = [
 //     "Amina",
 //     "Mahjouba",
@@ -63,7 +65,7 @@ for(var monChiffre = 1; monChiffre < 100; monChiffre++){
 // for(var i = 0; i < mytable.length; i++){
 //     alert("Salut "+ mytable[i]);
 // }
-
+//******************************************************************************************************************* */
 // // push
 //   mytable.push("mamy");
 // //   Unshift
@@ -74,7 +76,7 @@ for(var monChiffre = 1; monChiffre < 100; monChiffre++){
 //  mytable.shift();
 //  document.write(mytable + " " +"<br>");
 
-
+//********************************************************************************************************************** */
 var table = [
     {
     nom : "belkacem",
